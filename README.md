@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yadavraje
-- 👀 I’m interested in automating jobs
+- 👀 I’m interested in automating the jobs
 - 🌱 I’m currently learning ML and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Solutions based on Artificial Intelligence
 - 📫 How to reach me ...rajeshyadav2593@yahoo.in
